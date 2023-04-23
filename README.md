@@ -1,5 +1,8 @@
 # 💫 About Me:
-👋 Merhaba! Ben bir Full-Stack Web Developer ve Mobil Developer'ım.<br>💻 PHP ve React Native dillerinde uzmanım<br>🚀 ve NodeJS, Python ve React dillerinde orta seviyede bilgiye sahibim.<br>📊 Veritabanları konusunda PHPmyAdmin ve MySQL'de uzmanım ve MongoDB ve Firestore'da orta seviyede bilgiye sahibim.<br>🌟 Kendimi sürekli geliştirmek ve yeni teknolojiler öğrenmekten keyif alıyorum. 🙌
+👋 Hi there! I'm a Full-Stack Web Developer and Mobile Developer.
+💻 I'm an expert in PHP and React Native, and have intermediate knowledge of NodeJS, Python, and React.
+📊 I'm skilled in databases with expertise in PHPmyAdmin and MySQL, and intermediate knowledge of MongoDB and Firestore.
+🌟 I enjoy continuously improving my skills and learning new technologies. 🙌
 
 
 ## 🌐 Socials:
