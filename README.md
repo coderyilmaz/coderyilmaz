@@ -1,7 +1,7 @@
 # 💫 About Me:
-👋 Hi there! I'm a Full-Stack Web Developer and Mobile Developer.
-💻 I'm an expert in PHP and React Native, and have intermediate knowledge of NodeJS, Python, and React.
-📊 I'm skilled in databases with expertise in PHPmyAdmin and MySQL, and intermediate knowledge of MongoDB and Firestore.
+👋 Hi there! I'm a Full-Stack Web Developer and Mobile Developer.</br>
+💻 I'm an expert in PHP and React Native, and have intermediate knowledge of NodeJS, Python, and React.</br>
+📊 I'm skilled in databases with expertise in PHPmyAdmin and MySQL, and intermediate knowledge of MongoDB and Firestore.</br>
 🌟 I enjoy continuously improving my skills and learning new technologies. 🙌
 
 
